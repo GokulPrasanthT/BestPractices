@@ -2,27 +2,22 @@ package com.chainsys.bestpractices.srp;
 
 public class EmployeeManager {
 
-	public void addnewEmployee() {
-
+	public void addNewCustomer() {
+		
 	}
-
-	public void addNewProduct() {
-
-	}
-
 	public void findCustomer() {
-
+		
 	}
-	public void addnewEmployee() {
-
+	public void addNewEmployee() {
+		
 	}
-
 	public void findEmployee() {
-
+		
 	}
-
-	public void findCustomer() {
-
+	public void addNewProduct() {
+		
 	}
-}
+	public void findProduct() {
+		
+	}
 }

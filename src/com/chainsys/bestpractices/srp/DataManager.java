@@ -2,7 +2,7 @@ package com.chainsys.bestpractices.srp;
 
 public class DataManager {
 
-	public void addnewEmployee() {
+	public void addNewCustomer() {
 
 	}
 
@@ -10,10 +10,7 @@ public class DataManager {
 
 	}
 
-	public void findCustomer() {
-
-	}
-	public void addnewEmployee() {
+	public void addNewEmployeer() {
 
 	}
 
@@ -21,8 +18,11 @@ public class DataManager {
 
 	}
 
-	public void findCustomer() {
+	public void addNewProduct() {
 
 	}
-}
+
+	public void findProduct() {
+
+	}
 }
